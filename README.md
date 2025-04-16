@@ -1,6 +1,6 @@
 # port-crossplane
 
-This repository will be used as a template for connecting Crossplane and Port through ArgoCD
+This repository will be used as a template for connecting Crossplane and Port through ArgoCD.
 
 The following two secrets need to be set:
 
